@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "301333852026",
+    "firebase_url": "https://festbar-11624.firebaseio.com",
+    "project_id": "festbar-11624",
+    "storage_bucket": "festbar-11624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301333852026:android:eb7c87bdc534ea3d",
+        "android_client_info": {
+          "package_name": "festbaradministrador.starpro.com.festbaradministrador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301333852026-fr4gufal8hklee9abk2n2ad1kqn7d6a8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "festbaradministrador.starpro.com.festbaradministrador",
+            "certificate_hash": "911df1df93cbd9ab79782336180f0a1253394848"
+          }
+        },
+        {
+          "client_id": "301333852026-a555t37i1p08s34aiubgd9ahl0509nr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj1_QsCsyQYdHwLvL5iPCx2YMgE7qQQ9k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301333852026-a555t37i1p08s34aiubgd9ahl0509nr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301333852026:android:c53244088912d9cc",
+        "android_client_info": {
+          "package_name": "festbar.starpro.com.festbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301333852026-rpuo1bembs3ld825e6egd8hpqstak76u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "festbar.starpro.com.festbar",
+            "certificate_hash": "911df1df93cbd9ab79782336180f0a1253394848"
+          }
+        },
+        {
+          "client_id": "301333852026-a555t37i1p08s34aiubgd9ahl0509nr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj1_QsCsyQYdHwLvL5iPCx2YMgE7qQQ9k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301333852026-a555t37i1p08s34aiubgd9ahl0509nr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
