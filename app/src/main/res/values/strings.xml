@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">FestBar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_inicio">Início</string>
+    <string name="title_pesquisar">Pesquisar</string>
+    <string name="title_mapa">Mapa</string>
+    <string name="title_perfil">Perfil</string>
 </resources>

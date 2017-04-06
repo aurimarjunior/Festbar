@@ -8,17 +8,17 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:301333852026:android:eb7c87bdc534ea3d",
+        "mobilesdk_app_id": "1:301333852026:android:c53244088912d9cc",
         "android_client_info": {
-          "package_name": "festbaradministrador.starpro.com.festbaradministrador"
+          "package_name": "festbar.starpro.com.festbar"
         }
       },
       "oauth_client": [
         {
-          "client_id": "301333852026-fr4gufal8hklee9abk2n2ad1kqn7d6a8.apps.googleusercontent.com",
+          "client_id": "301333852026-rpuo1bembs3ld825e6egd8hpqstak76u.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "festbaradministrador.starpro.com.festbaradministrador",
+            "package_name": "festbar.starpro.com.festbar",
             "certificate_hash": "911df1df93cbd9ab79782336180f0a1253394848"
           }
         },
@@ -52,17 +52,17 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:301333852026:android:c53244088912d9cc",
+        "mobilesdk_app_id": "1:301333852026:android:d55694aefd17e532",
         "android_client_info": {
-          "package_name": "festbar.starpro.com.festbar"
+          "package_name": "festbar.starpro.com.festbaradmin"
         }
       },
       "oauth_client": [
         {
-          "client_id": "301333852026-rpuo1bembs3ld825e6egd8hpqstak76u.apps.googleusercontent.com",
+          "client_id": "301333852026-8cc6q7q2cpnk9ttlbarh3fiueoa6qnj5.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "festbar.starpro.com.festbar",
+            "package_name": "festbar.starpro.com.festbaradmin",
             "certificate_hash": "911df1df93cbd9ab79782336180f0a1253394848"
           }
         },
