@@ -9,6 +9,10 @@
     <string name="title_mapa">Mapa</string>
     <string name="title_perfil">Perfil</string>
 
+
+    <string name="search_hint">Buscar por Festa/Bar</string>
+    <string name="maps_hint">Mapa</string>
+
     <string-array name="titles_tab">
         <item>FESTAS</item>
         <item>BARES</item>
@@ -19,4 +23,5 @@
     <string name="title_activity_main">MainActivity</string>
 
     <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
 </resources>

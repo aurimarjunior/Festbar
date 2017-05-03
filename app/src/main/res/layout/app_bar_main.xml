@@ -17,15 +17,21 @@
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:background="?attr/colorPrimary"
+            android:gravity="right"
             app:logo="@drawable/logo"
-            app:popupTheme="@style/Theme.MyTheme.PopupOverlay"></android.support.v7.widget.Toolbar>
+            app:popupTheme="@style/Theme.MyTheme.PopupOverlay"
+            tools:ignore="RtlHardcoded">
+
+        </android.support.v7.widget.Toolbar>
 
         <android.support.design.widget.TabLayout
             android:id="@+id/tab_layout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            app:tabIndicatorColor="@color/accent"
-            app:tabSelectedTextColor="@color/colorText" />
+            android:background="@color/colorBackgroundTab"
+            app:tabIndicatorColor="@color/colorPrimary"
+            app:tabSelectedTextColor="@color/colorPrimary"
+            app:tabTextColor="@color/colorTextTab" />
 
     </android.support.design.widget.AppBarLayout>
 
